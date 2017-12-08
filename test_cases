@@ -1,0 +1,24 @@
+A-20, ahmad nagar, sector 43/B, noida
+
+a-20, ahmad nagr, sec 43/B, noida, ghaziabad, 110020
+
+b-1053 shastri ngr Delhi-110052
+
+
+Enter Address: 4, jamna sagar, dharamnagar, sabarmati, Ahmedabad, 380005
+['4', '', 'jamna', 'sagar', '', 'dharamnagar', '', 'sabarmati', '', 'Ahmedabad', '', '380005']
+
+Enter Address: b-1053 shastri ngr Delhi-110052
+['b', '1053', 'shastri', ['nagar'], 'Delhi', '110052']
+
+Enter Address: rom no. 17, house no. 94, madanpur khadar, pkt L, sarita vihr, new delhi, 110076
+[['room'], 'no', '', '17', '', 'house', 'no', '', '94', '', 'madanpur', 'khadar',
+'', ['pocket'], 'L', '', 'sarita', ['vihar'], '', 'new', 'delhi', '', '110076']
+
+Enter Address: i-6, parijat clny, nehru ngr, bilaspur, CG, 495001
+['i', '6', '', 'parijat', ['colony'], '', 'nehru', ['nagar'], '', 'bilaspur', '', 'CG', '', '495001']
+
+Enter Address: house no d/26, rabti ngr, phase 4, gorakhpur, 273013
+['house', 'no', 'd', '26', '', 'rabti', ['nagar'], '', 'phase', '4', '', 'gorakhpur', '', '273013']
+
+Enter Address:
